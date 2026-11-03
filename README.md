@@ -127,19 +127,27 @@ I'm a passionate developer dedicated to crafting user-friendly and visually stun
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
+<br />
 
 ## 🤝 Connect with me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/md-labib-ferdous-6047b3265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/saaikott" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/codegreyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://vercel.com/saaikot" target="blank"><img align="center" src="https://cdn.simpleicons.org/vercel/FFFFFF" alt="Vercel" height="30" width="30" style="margin-left: 5px;" /></a>
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-labib-ferdous-6047b3265)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/saaikott)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codegreyy)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/saaikot)
+
+</div>
+
+<p align="center">
+  📧 <b>Email:</b> <a href="mailto:labibsaikot@gmail.com">labibsaikot@gmail.com</a> &nbsp;|&nbsp; 
+  📍 <b>Location:</b> Khilkhet, Dhaka, Bangladesh
 </p>
 
-📧 **Email:** [labibsaikot@gmail.com](mailto:labibsaikot@gmail.com)
-📍 **Location:** Khilkhet, Dhaka, Bangladesh
-<!-- Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,50:d76d77,100:ffaf7b&height=120&section=footer" alt="Footer Wave" />
-</p>
+<br />
+
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,50:70A5FD,100:0D1117&height=140&section=footer" alt="Footer wave" width="100%" />
+</div>
