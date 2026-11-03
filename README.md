@@ -20,6 +20,10 @@ I'm a passionate developer dedicated to crafting user-friendly and visually stun
 
 ## 🛠️ Tech Stack & Skills
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=400&lines=My+Tech+Stack;Frontend+%7C+Backend+%7C+Tools;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
+
 <p align="center"><b>💻 Frontend</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind" />
@@ -38,7 +42,9 @@ I'm a passionate developer dedicated to crafting user-friendly and visually stun
 <!-- Premium Featured Projects -->
 ## 🚀 Featured Projects
 
-Here are some of my recent works. Click to view the Live Demo or Source Code.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=400&lines=Explore+My+Latest+Work;Live+Demos+Available;Built+With+Modern+Tech" alt="Typing SVG" />
+</p>
 
 <table align="center" border="0">
   <tr>
