@@ -1,51 +1,94 @@
-<!-- Banner Image -->
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,50:d76d77,100:ffaf7b&height=200&section=header&text=Hello%20World!&fontSize=50&fontAlignY=35" alt="banner" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Labib+👋;Full-Stack+Developer;Next.js+%26+TypeScript+Enthusiast;Building+Premium+Web+Experiences" alt="Typing SVG" />
+  </a>
 </p>
 
-<h1 align="center">Hi there 👋, I'm Labib</h1>
-<h3 align="center">Full-Stack Developer | Next.js & TypeScript Enthusiast</h3>
-
+<!-- About Me -->
 ## 🧑‍💻 About Me
 
-I'm a passionate developer dedicated to crafting user-friendly web applications. I thrive on exploring new technologies and turning complex problems into elegant solutions.
+I'm a passionate developer dedicated to crafting user-friendly and visually stunning web applications. I thrive on exploring new technologies and turning complex problems into elegant solutions.
 
-**🚀 Current Activities:**
-- 🔭 I’m currently working on a **Banking App** (coming soon!)
-- 🌱 I’m also building projects like **[BazarDor App](https://github.com/saaikot)** and **[Social Event Platform](https://github.com/saaikot)**
-- 💬 Ask me about **Next.js, TypeScript, React, GSAP**
+**🚀 Currently Building:**
+- 🔭 I’m currently working on a **Banking App** (Focusing on secure authentication & seamless UI).
+- 🌱 Exploring advanced animations with **GSAP** and optimizing **Next.js** performance.
 
-## 🛠️ Skills
+<!-- Skills Section -->
+## 🛠️ Tech Stack & Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,git,github,figma,nodejs,mongodb&perline=12" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,nodejs,mongodb,git,github,figma,vercel&perline=13" />
   </a>
 </p>
 
-## 📫 Connect with me
+<!-- Premium Featured Projects -->
+## 🚀 Featured Projects
 
-<p align="left">
-  <a href="https://linkedin.com/in/md-labib-ferdous-604763265" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/labibiiiib" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/saaikot" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
+Here are some of my recent works. Click to view the Live Demo or Source Code.
+
+<table align="center" border="0">
+  <tr>
+    <td width="50%" align="center">
+      <h3>🛍️ Bazar Dor App</h3>
+      <p>A digital marketplace app for tracking daily prices.</p>
+      <a href="https://labib-bazar-dor-app-vjr9.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"></a>
+      <a href="https://github.com/saaikot/bazar-dor-app"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    </td>
+    <td width="50%" align="center">
+      <h3>🤝 Social Events Platform</h3>
+      <p>Manage, discover, and book social events seamlessly.</p>
+      <a href="https://saaikot-social-events-client.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"></a>
+      <a href="https://github.com/saaikot/saaikot-social-events-client"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🧊 Glacier Portfolio</h3>
+      <p>Modern 3D interactive developer portfolio.</p>
+      <a href="https://portfolio-glacier.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"></a>
+      <a href="https://github.com/saaikot/portfolio-glacier"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    </td>
+    <td width="50%" align="center">
+      <h3>💪 Fitlog App</h3>
+      <p>Dark-themed, no-nonsense gym companion.</p>
+      <a href="https://fitlog-app-ruddy.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live"></a>
+      <a href="https://github.com/saaikot/fitlog-app"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>🔥 More Projects (Anime Portfolios & 3D)</b></summary>
+  <br>
+  <ul>
+    <li>⚡ <b>Jujutsu Kaisen Portfolio:</b> <a href="https://portfolio-jjk-phi.vercel.app/">Live Demo</a> | <a href="https://github.com/saaikot/portfolio-jjk">Code</a></li>
+    <li>🍥 <b>Naruto Portfolio:</b> <a href="https://portfolio-naruto-two.vercel.app/">Live Demo</a> | <a href="https://github.com/saaikot/portfolio-naruto">Code</a></li>
+    <li>🎮 <b>3D Portfolio:</b> <a href="https://github.com/saaikot/3D-Portfolio">Code</a></li>
+  </ul>
+</details>
+
+<!-- Activity Graph -->
+## 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saaikot&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF" alt="Activity Graph" />
 </p>
 
-📍 **Location:** Dhaka, Bangladesh
-
+<!-- GitHub Stats -->
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saaikot&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaikot&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saaikot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaikot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180em" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saaikot&theme=radical&hide_border=true" alt="GitHub Streak" />
+<!-- Connect -->
+## 🤝 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/md-labib-ferdous-604763265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://facebook.com/[আপনার-ফেসবুক-আইডি-বা-লিংক]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://instagram.com/codegrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://vercel.com/saaikot" target="blank"><img align="center" src="https://cdn.simpleicons.org/vercel/FFFFFF" alt="Vercel" height="30" width="30" style="margin-left: 5px;" /></a>
 </p>
+
+📍 khilkhet, Dhaka, Bangladesh
