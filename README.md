@@ -1,7 +1,10 @@
-<!-- ═══════════════════════ HEADER ═══════════════════════ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Hi%2C%20I'm%20Labib&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Next.js%20%26%20TypeScript%20Enthusiast&descSize=18&descAlignY=60" alt="Header banner" width="100%" />
-</div>
+<!-- Animated Header -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Labib+👋;Full-Stack+Developer;Next.js+%26+TypeScript+Enthusiast;Building+Premium+Web+Experiences" alt="Typing SVG" />
+  </a>
+</p>
+
 
 <!-- ═══════════════════════ SOCIALS ═══════════════════════ -->
 <div align="center">
@@ -140,8 +143,3 @@ I'm a passionate developer dedicated to crafting user-friendly and visually stun
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,50:d76d77,100:ffaf7b&height=120&section=footer" alt="Footer Wave" />
 </p>
-
-<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer" alt="Footer wave" width="100%" />
-</div>
