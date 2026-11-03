@@ -147,7 +147,6 @@ I'm a passionate developer dedicated to crafting user-friendly and visually stun
 
 <br />
 
-<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,50:70A5FD,100:0D1117&height=140&section=footer" alt="Footer wave" width="100%" />
 </div>
