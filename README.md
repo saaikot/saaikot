@@ -11,7 +11,7 @@
 
 <!-- About Me -->
 ## 🧑‍💻 About Me
-
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 I'm a passionate developer dedicated to crafting user-friendly and visually stunning web applications. I thrive on exploring new technologies and turning complex problems into elegant solutions.
 
 **🚀 Currently Building:**
@@ -73,23 +73,36 @@ Here are some of my recent works. Click to view the Live Demo or Source Code.
   </ul>
 </details>
 
-<!-- Activity Graph -->
+## 📊 GitHub Stats & Trophies
+
+<!-- Stable Stats Card -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saaikot&theme=tokyonight" alt="Profile Details" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saaikot&theme=tokyonight" alt="Top Languages" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saaikot&theme=tokyonight" alt="Commit Languages" width="49%" />
+</p>
+
+<!-- GitHub Streak (Alternative) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saaikot&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saaikot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
 ## 📈 Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saaikot&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF" alt="Activity Graph" />
 </p>
-
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saaikot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaikot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180em" />
 </p>
-## 🏆 GitHub Trophies
+## ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saaikot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
-
 <!-- Connect -->
 ## 🤝 Connect with me
 <p align="left">
