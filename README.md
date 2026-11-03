@@ -4,14 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Labib+👋;Full-Stack+Developer;Next.js+%26+TypeScript+Enthusiast;Building+Premium+Web+Experiences" alt="Typing SVG" />
   </a>
 </p>
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saaikot/saaikot/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
 
-<!-- About Me -->
 ## 🧑‍💻 About Me
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+
 I'm a passionate developer dedicated to crafting user-friendly and visually stunning web applications. I thrive on exploring new technologies and turning complex problems into elegant solutions.
 
 **🚀 Currently Building:**
@@ -20,9 +15,9 @@ I'm a passionate developer dedicated to crafting user-friendly and visually stun
 
 ## 🛠️ Tech Stack & Skills
 
-<<p align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=My+Tech+Stack;Frontend+%7C+Backend+%7C+Tools;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=My+Tech+Stack;Frontend+%7C+Backend+%7C+Tools;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </p>
 
@@ -41,12 +36,11 @@ I'm a passionate developer dedicated to crafting user-friendly and visually stun
   <img src="https://skillicons.dev/icons?i=git,github,figma,vercel" />
 </p>
 
-<!-- Premium Featured Projects -->
 ## 🚀 Featured Projects
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Explore+My+Latest+Work;Live+Demos+Available;Built+With+Modern+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Explore+My+Latest+Work;Live+Demos+Available;Built+With+Modern+Tech" alt="Typing SVG" />
   </a>
 </p>
 
@@ -125,10 +119,10 @@ I'm a passionate developer dedicated to crafting user-friendly and visually stun
   <a href="https://vercel.com/saaikot" target="blank"><img align="center" src="https://cdn.simpleicons.org/vercel/FFFFFF" alt="Vercel" height="30" width="30" style="margin-left: 5px;" /></a>
 </p>
 
-📧 **Email:** [labibsaikot@gmail.com](mailto:labibsaikot@gmail.com)
+📧 **Email:** [labibsaikot@gmail.com](mailto:labibsaikot@gmail.com) <br>
 📍 **Location:** Khilkhet, Dhaka, Bangladesh
 
-<!-- Footer Wave -->
+<!-- Clean Dark Theme Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" alt="Footer" />
 </p>
