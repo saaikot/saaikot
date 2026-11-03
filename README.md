@@ -4,6 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Labib+👋;Full-Stack+Developer;Next.js+%26+TypeScript+Enthusiast;Building+Premium+Web+Experiences" alt="Typing SVG" />
   </a>
 </p>
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saaikot/saaikot/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 <!-- About Me -->
 ## 🧑‍💻 About Me
@@ -86,9 +90,9 @@ Here are some of my recent works. Click to view the Live Demo or Source Code.
 ## 🤝 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/md-labib-ferdous-604763265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://facebook.com/[আপনার-ফেসবুক-আইডি-বা-লিংক]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/saaikott" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
   <a href="https://instagram.com/codegrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://vercel.com/saaikot" target="blank"><img align="center" src="https://cdn.simpleicons.org/vercel/FFFFFF" alt="Vercel" height="30" width="30" style="margin-left: 5px;" /></a>
 </p>
 
-📍 khilkhet, Dhaka, Bangladesh
+📍 Khilkhet, Dhaka, Bangladesh
