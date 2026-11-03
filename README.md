@@ -20,8 +20,10 @@ I'm a passionate developer dedicated to crafting user-friendly and visually stun
 
 ## 🛠️ Tech Stack & Skills
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=400&lines=My+Tech+Stack;Frontend+%7C+Backend+%7C+Tools;Always+Learning+New+Things" alt="Typing SVG" />
+<<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=My+Tech+Stack;Frontend+%7C+Backend+%7C+Tools;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center"><b>💻 Frontend</b></p>
@@ -43,7 +45,9 @@ I'm a passionate developer dedicated to crafting user-friendly and visually stun
 ## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=400&lines=Explore+My+Latest+Work;Live+Demos+Available;Built+With+Modern+Tech" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Explore+My+Latest+Work;Live+Demos+Available;Built+With+Modern+Tech" alt="Typing SVG" />
+  </a>
 </p>
 
 <table align="center" border="0">
@@ -121,9 +125,10 @@ I'm a passionate developer dedicated to crafting user-friendly and visually stun
   <a href="https://vercel.com/saaikot" target="blank"><img align="center" src="https://cdn.simpleicons.org/vercel/FFFFFF" alt="Vercel" height="30" width="30" style="margin-left: 5px;" /></a>
 </p>
 
-📍 Khilkhet, Dhaka, Bangladesh
+📧 **Email:** [labibsaikot@gmail.com](mailto:labibsaikot@gmail.com)
+📍 **Location:** Khilkhet, Dhaka, Bangladesh
 
 <!-- Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,50:d76d77,100:ffaf7b&height=120&section=footer" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" alt="Footer" />
 </p>
