@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Labib</h1>
+<!-- Premium Header Wave (No Typing) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,50:d76d77,100:ffaf7b&height=200&section=header&text=Hi%20there,%20I'm%20Labib&fontSize=50&fontAlignY=35&animation=fadeIn" alt="Header" />
+</p>
+
 <h3 align="center">Full-Stack Developer | Next.js & TypeScript Enthusiast</h3>
 
 <p align="center">
@@ -77,7 +81,7 @@ I'm a passionate developer dedicated to crafting user-friendly and visually stun
   </ul>
 </details>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saaikot&theme=tokyonight" alt="Profile Details" width="100%" />
@@ -88,8 +92,15 @@ I'm a passionate developer dedicated to crafting user-friendly and visually stun
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saaikot&theme=tokyonight" alt="Commit Languages" width="49%" />
 </p>
 
+<!-- Moving Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saaikot&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saaikot&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF" alt="Activity Graph" />
+</p>
+
+<!-- Snake Animation -->
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saaikot/saaikot/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ## ✍️ Random Dev Quote
@@ -109,3 +120,8 @@ I'm a passionate developer dedicated to crafting user-friendly and visually stun
 
 📧 **Email:** [labibsaikot@gmail.com](mailto:labibsaikot@gmail.com) <br>
 📍 **Location:** Khilkhet, Dhaka, Bangladesh
+
+<!-- Theme Matched Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E293B,100:0D1117&height=120&section=footer" alt="Footer Wave" />
+</p>
