@@ -1,8 +1,8 @@
-<!-- Animated Header -->
+<h1 align="center">Hi 👋, I'm Labib</h1>
+<h3 align="center">Full-Stack Developer | Next.js & TypeScript Enthusiast</h3>
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Labib+👋;Full-Stack+Developer;Next.js+%26+TypeScript+Enthusiast;Building+Premium+Web+Experiences" alt="Typing SVG" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=saaikot&label=Profile%20views&color=38BDF8&style=flat" alt="saaikot" />
 </p>
 
 ## 🧑‍💻 About Me
@@ -14,12 +14,6 @@ I'm a passionate developer dedicated to crafting user-friendly and visually stun
 - 🌱 Exploring advanced animations with **GSAP** and optimizing **Next.js** performance.
 
 ## 🛠️ Tech Stack & Skills
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=My+Tech+Stack;Frontend+%7C+Backend+%7C+Tools;Always+Learning+New+Things" alt="Typing SVG" />
-  </a>
-</p>
 
 <p align="center"><b>💻 Frontend</b></p>
 <p align="center">
@@ -37,12 +31,6 @@ I'm a passionate developer dedicated to crafting user-friendly and visually stun
 </p>
 
 ## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Explore+My+Latest+Work;Live+Demos+Available;Built+With+Modern+Tech" alt="Typing SVG" />
-  </a>
-</p>
 
 <table align="center" border="0">
   <tr>
@@ -121,8 +109,3 @@ I'm a passionate developer dedicated to crafting user-friendly and visually stun
 
 📧 **Email:** [labibsaikot@gmail.com](mailto:labibsaikot@gmail.com) <br>
 📍 **Location:** Khilkhet, Dhaka, Bangladesh
-
-<!-- Clean Dark Theme Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" alt="Footer" />
-</p>
